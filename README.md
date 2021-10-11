@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nomi-ngj
+- 👋 Hi, I’m Nouman gul Junejo
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning swiftui, private sdk.
 - 📫 Noumanguljunejo@gmail.com
