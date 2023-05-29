@@ -1,5 +1,8 @@
-### Hi there 👋
 
+### 👋 Hi, I’m Nouman Gul Junejo.
+I’m an iOS developer. I preferes Swift language for app development.
+SwiftUI anthusiast.
+Love to design beautiful apps and develope amazing features.
 <!--
 **Nomi-ngj/Nomi-ngj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
