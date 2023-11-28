@@ -1,8 +1,8 @@
 
 ### 👋 Hi, I’m Nouman Gul Junejo.
-I’m an iOS developer. I preferes Swift language for app development. <br>
-SwiftUI anthusiast. <br>
-Love to design beautiful apps and develope amazing features. <br>
+I’m an iOS developer. I prefer Swift language for app development. <br>
+SwiftUI enthusiast. <br>
+Love to design beautiful apps and develop amazing features. <br>
 I love exploring the latest technologies and frameworks to build robust and efficient iOS apps. <br>
 
 ### Skills <br>
