@@ -17,7 +17,7 @@ let’s get to know each other and make some magic happen!
 **IDEs:**<br>
 ![Xcode](https://img.shields.io/badge/xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
-**iOS Development:** <br>
+**Frameworks:** <br>
 ![Core Data](https://img.shields.io/badge/core%20data-1D8EFD?style=for-the-badge&logo=apple&logoColor=white)
 ![Core Animation](https://img.shields.io/badge/core%20animation-FFA500?style=for-the-badge&logo=swift&logoColor=white)
 ![Core Graphics](https://img.shields.io/badge/core%20graphics-4B8A08?style=for-the-badge&logo=swift&logoColor=white)
@@ -25,7 +25,7 @@ let’s get to know each other and make some magic happen!
 ![MapKit](https://img.shields.io/badge/mapkit-0078D7?style=for-the-badge&logo=apple&logoColor=white)
 ![AVFoundation](https://img.shields.io/badge/avfoundation-FF2D55?style=for-the-badge&logo=apple&logoColor=white)
 
-**Frameworks and Libraries:** <br>
+**Libraries:** <br>
 ![Alamofire](https://img.shields.io/badge/alamofire-EC5766?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Realm](https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
