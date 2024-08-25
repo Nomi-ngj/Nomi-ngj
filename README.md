@@ -14,7 +14,7 @@ let’s get to know each other and make some magic happen!
 ![UIKit](https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftui-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 
-**IDEs:**<br>
+**IDE:**<br>
 ![Xcode](https://img.shields.io/badge/xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
 **Frameworks:** <br>
