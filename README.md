@@ -45,6 +45,7 @@ let’s get to know each other and make some magic happen!
 **Testing and Debugging:** <br>
 ![XCTest](https://img.shields.io/badge/xctest-FA1E2D?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode Instruments](https://img.shields.io/badge/xcode%20instruments-0071C5?style=for-the-badge&logo=apple&logoColor=white)
+![Swift Testing](https://img.shields.io/badge/xcode%20instruments-0071C5?style=for-the-badge&logo=apple&logoColor=white)
 
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomi-ngj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
