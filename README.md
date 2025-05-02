@@ -17,6 +17,18 @@ let’s get to know each other and make some magic happen!
 **IDE:**<br>
 ![Xcode](https://img.shields.io/badge/xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
+**Architecture Patterns:** <br>
+![MVC](https://img.shields.io/badge/mvc-6C9BCC?style=for-the-badge&logo=apple&logoColor=white)
+![MVVM](https://img.shields.io/badge/mvvm-4A90E2?style=for-the-badge&logo=apple&logoColor=white)
+![VIPER](https://img.shields.io/badge/viper-00B2A9?style=for-the-badge&logo=apple&logoColor=white)
+![Clean](https://img.shields.io/badge/clean-00B2A9?style=for-the-badge&logo=apple&logoColor=white)
+
+**Libraries:** <br>
+![Alamofire](https://img.shields.io/badge/alamofire-EC5766?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Realm](https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![RxSwift](https://img.shields.io/badge/rxswift-DD0B78?style=for-the-badge&logo=reactivex&logoColor=white)
+
 **Frameworks:** <br>
 ![Core Data](https://img.shields.io/badge/core%20data-1D8EFD?style=for-the-badge&logo=apple&logoColor=white)
 ![Core Animation](https://img.shields.io/badge/core%20animation-FFA500?style=for-the-badge&logo=swift&logoColor=white)
@@ -25,22 +37,11 @@ let’s get to know each other and make some magic happen!
 ![MapKit](https://img.shields.io/badge/mapkit-0078D7?style=for-the-badge&logo=apple&logoColor=white)
 ![AVFoundation](https://img.shields.io/badge/avfoundation-FF2D55?style=for-the-badge&logo=apple&logoColor=white)
 
-**Libraries:** <br>
-![Alamofire](https://img.shields.io/badge/alamofire-EC5766?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Realm](https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![RxSwift](https://img.shields.io/badge/rxswift-DD0B78?style=for-the-badge&logo=reactivex&logoColor=white)
-
 **Version Control Systems:** <br>
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Design Patterns:** <br>
-![MVC](https://img.shields.io/badge/mvc-6C9BCC?style=for-the-badge&logo=apple&logoColor=white)
-![MVVM](https://img.shields.io/badge/mvvm-4A90E2?style=for-the-badge&logo=apple&logoColor=white)
-![VIPER](https://img.shields.io/badge/viper-00B2A9?style=for-the-badge&logo=apple&logoColor=white)
 
 **Testing and Debugging:** <br>
 ![XCTest](https://img.shields.io/badge/xctest-FA1E2D?style=for-the-badge&logo=apple&logoColor=white)
@@ -55,5 +56,4 @@ Got an awesome idea or a challenging project? Hit me up at [**noumanguljunejo@gm
 
 Thank you for visiting my GitHub repository.
 <br>
-[![Visit-Count](https://visitcount.itsvg.in/api?id=Nomi-ngj&icon=0&color=0)](https://visitcount.itsvg.in)
 
