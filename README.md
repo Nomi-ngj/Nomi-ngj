@@ -17,6 +17,12 @@ let’s get to know each other and make some magic happen!
 **IDE:**<br>
 ![Xcode](https://img.shields.io/badge/xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
+
+**Testing and Debugging:** <br>
+![XCTest](https://img.shields.io/badge/xctest-FA1E2D?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode Instruments](https://img.shields.io/badge/xcode%20instruments-0071C5?style=for-the-badge&logo=apple&logoColor=white)
+![Swift Testing](https://img.shields.io/badge/swift%20testing-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
 **Architecture Patterns:** <br>
 ![MVC](https://img.shields.io/badge/mvc-6C9BCC?style=for-the-badge&logo=apple&logoColor=white)
 ![MVVM](https://img.shields.io/badge/mvvm-4A90E2?style=for-the-badge&logo=apple&logoColor=white)
@@ -42,11 +48,6 @@ let’s get to know each other and make some magic happen!
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Testing and Debugging:** <br>
-![XCTest](https://img.shields.io/badge/xctest-FA1E2D?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode Instruments](https://img.shields.io/badge/xcode%20instruments-0071C5?style=for-the-badge&logo=apple&logoColor=white)
-![Swift Testing](https://img.shields.io/badge/swift%20testing-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomi-ngj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
