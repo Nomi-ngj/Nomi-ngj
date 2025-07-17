@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nouman Gul Junejo.
-I’m an **iOS Developer** who’s practically married to **Swift** and has a serious love affair with **SwiftUI**. But don’t get me wrong—I still have a soft spot for **Objective-C**.
+I’m an **iOS Developer** who’s practically married to **Swift** and has a serious love affair with **SwiftUI**. But don’t get me wrong, I still have a soft spot for **Objective-C**.
 
 When I’m not busy making apps that look gorgeous and run like a dream, you’ll find me geeking out over the latest tech trends and frameworks. 
 
