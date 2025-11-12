@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="_.jpeg" alt="Top border" width="100%">
+</div>
+<br>
+<br>
 <div align="center">
   <H1>Hi, I’m Nouman Gul Junejo.</H1> 
 </div>
