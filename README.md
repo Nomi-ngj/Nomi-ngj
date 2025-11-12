@@ -72,8 +72,9 @@ Got an awesome idea or a challenging project? Hit me up at <a href="https://mail
   
 Thank you for visiting my GitHub repository.
 <br>
+<br>
 
 <div align="center">
-  <img src="programmer_life.png" alt="Top border" width="90%">
+  <img src="programmer_life.png" alt="Top border" width="100%">
 </div>
 
