@@ -8,10 +8,10 @@
 </div>
 <table>
   <tr>
-    <td width="20%">
+    <td width="40%">
       <img src="programmer.png" alt="GIF">
     </td>
-    <td valign="top" width="80%">
+    <td valign="top" width="60%">
       <p align="left">
         I’m an <strong>iOS Developer</strong> who’s practically married to <strong>Swift</strong> and has a serious love affair with <strong>SwiftUI</strong>. But don’t get me wrong, I still have a soft spot for <strong>Objective-C</strong>. <br><br>
         When I’m not busy making apps that look gorgeous and run like a dream, you’ll find me geeking out over the latest tech trends and frameworks. <br><br>
