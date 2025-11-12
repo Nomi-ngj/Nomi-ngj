@@ -1,11 +1,21 @@
 # 👋 Hi, I’m Nouman Gul Junejo.
-I’m an **iOS Developer** who’s practically married to **Swift** and has a serious love affair with **SwiftUI**. But don’t get me wrong, I still have a soft spot for **Objective-C**.
+<table>
+  <tr>
+    <td width="20%">
+      <img src="programmer.png" alt="GIF">
+    </td>
+    <td valign="top" width="80%">
+      <p align="left">
+        I’m an <strong>iOS Developer</strong> who’s practically married to <strong>Swift</strong> and has a serious love affair with <strong>SwiftUI</strong>. But don’t get me wrong, I still have a soft spot for <strong>Objective-C</strong>. <br><br>
+        When I’m not busy making apps that look gorgeous and run like a dream, you’ll find me geeking out over the latest tech trends and frameworks. <br><br>
+        let’s get to know each other and make some magic happen!
+      </p>
+    </td>
+  </tr>
+</table>
 
-When I’m not busy making apps that look gorgeous and run like a dream, you’ll find me geeking out over the latest tech trends and frameworks. 
 
-let’s get to know each other and make some magic happen!
-
-# 💻 My Skills <br>
+# My Skills <br>
 **Programming Languages:** <br>
 ![Objective-C](https://img.shields.io/badge/objective--c-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -53,8 +63,12 @@ let’s get to know each other and make some magic happen!
 
 
 # 📬 Get in Touch!
-Got an awesome idea or a challenging project? Hit me up at [**noumanguljunejo@gmail.com**](mailto:noumanguljunejo@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/noumanguljunejo/). I am always excited to collaborate on interesting projects or discuss iOS development ideas.
-
+Got an awesome idea or a challenging project? Hit me up at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noumanguljunejo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  /></a> or connect with me on <a href="https://www.linkedin.com/in/noumanguljunejo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  /></a>. I am always excited to collaborate on interesting projects or discuss iOS development ideas.
+  
 Thank you for visiting my GitHub repository.
 <br>
+
+<!-- <img src="programmer_life.png" alt="bottom border"> -->
 
