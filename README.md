@@ -70,7 +70,7 @@
 
 
 # Get in Touch!
-Got an awesome idea or a challenging project? Hit me up at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noumanguljunejo@gmail.com" target="_blank">
+Got an awesome idea or a challenging project? Hit me up at <a href="mailto:noumanguljunejo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  /></a> or connect with me on <a href="https://www.linkedin.com/in/noumanguljunejo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  /></a>. I am always excited to collaborate on interesting projects or discuss iOS development ideas.
   
