@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Nouman Gul Junejo.
+
+<div align="center">
+  <H1>Hi, I’m Nouman Gul Junejo.</H1> 
+</div>
 <table>
   <tr>
     <td width="20%">
@@ -62,7 +65,7 @@
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomi-ngj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 📬 Get in Touch!
+# Get in Touch!
 Got an awesome idea or a challenging project? Hit me up at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noumanguljunejo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  /></a> or connect with me on <a href="https://www.linkedin.com/in/noumanguljunejo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  /></a>. I am always excited to collaborate on interesting projects or discuss iOS development ideas.
@@ -70,5 +73,7 @@ Got an awesome idea or a challenging project? Hit me up at <a href="https://mail
 Thank you for visiting my GitHub repository.
 <br>
 
-<!-- <img src="programmer_life.png" alt="bottom border"> -->
+<div align="center">
+  <img src="programmer_life.png" alt="Top border" width="90%">
+</div>
 
